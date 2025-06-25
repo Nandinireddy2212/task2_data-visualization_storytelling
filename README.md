@@ -1,1 +1,1 @@
-# task2_data-visualization_storytelling
+# task2_data_visualization_storytelling
